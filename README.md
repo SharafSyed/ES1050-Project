@@ -1,4 +1,4 @@
-# NTPProject
+# ES1050-Final-Project
 This program is a project made for clients under the management of the ES1050 class
 
 Program made for Northern Tornadoes Project for Twitter Scraper
